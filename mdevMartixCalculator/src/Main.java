@@ -1,3 +1,5 @@
+/** Megan Devereux **?
+
 public class Main {
     public static void main(String[] args){
         MatrixCalculatorGUI gui =
